@@ -1,3 +1,11 @@
+
+<img width="694" alt="image" src="https://github.com/elifnazlib/motoko-projects/assets/111501335/8b2fc570-5a11-47b1-b512-909336a48cef">
+<br>
+<img width="953" alt="candidUI-1" src="https://github.com/elifnazlib/motoko-projects/assets/111501335/8103165c-2568-48d4-9112-db43cd6480f9">
+<img width="960" alt="candidUI-2" src="https://github.com/elifnazlib/motoko-projects/assets/111501335/1a56b9c7-93cb-4bd1-bdc4-2c3921b71a73">
+<img width="960" alt="candidUI-3" src="https://github.com/elifnazlib/motoko-projects/assets/111501335/58f5caf3-2996-4939-9015-c43c49bcf2e1">
+<img width="960" alt="candidUI-4" src="https://github.com/elifnazlib/motoko-projects/assets/111501335/b3c8043a-e282-451a-b547-e9c6caa421c9">
+
 # token
 
 Welcome to your new token project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
@@ -5,6 +13,9 @@ Welcome to your new token project and to the internet computer development commu
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
 To learn more before you start working with token, see the following documentation available online:
+<img width="694" alt="candidUI" src="https://github.com/elifnazlib/motok<img width="694" alt="candidUI" src="https://github.com/elifnazlib/motoko-projects/assets/111501335/3eeada11-7a0b-461d-a726-07356d638944">
+o-projects/assets/111501335/68f83d12-09a4-41bb-97d6-3bdd70f90de5">
+<img width="694" alt="candidUI" src="https://github.com/elifnazlib/motoko-projects/assets/111501335/3b9188ab-f580-45fb-9d70-1585b5050da4">
 
 - [Quick Start](https://internetcomputer.org/docs/current/developer-docs/setup/deploy-locally)
 - [SDK Developer Tools](https://internetcomputer.org/docs/current/developer-docs/setup/install)
