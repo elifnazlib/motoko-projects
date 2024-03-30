@@ -1,3 +1,20 @@
+## commands
+mkdir token_backend <br>
+cd token_backend <br>
+dfx new token <br>
+  --> Motoko <br>
+  --> No frontend canister <br>
+  --> Internet Identity <br> <br>
+
+cd token <br>
+(open folder "token_backend" and start coding on main.mo) <br>
+
+After finishing writing your code, open terminal and split it. Now, you have two terminals. <br>
+In the terminal on the left, write the command "dfx start --clean". Then, in the terminal on the right, write the commands: <br>
+cd (copy paste the path of src/token_backend) <br>
+dfx deploy
+
+
 
 <img width="694" alt="image" src="https://github.com/elifnazlib/motoko-projects/assets/111501335/8b2fc570-5a11-47b1-b512-909336a48cef">
 <br>
