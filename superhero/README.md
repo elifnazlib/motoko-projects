@@ -1,5 +1,7 @@
 # superhero
 
+<img width="789" alt="Ekran Görüntüsü (510)" src="https://github.com/elifnazlib/motoko-projects/assets/111501335/a8edf638-f745-40b7-9c7a-b3475494de7a">
+
 Welcome to your new superhero project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
