@@ -1,6 +1,6 @@
 # final_project
 
-I have created a project using Motoko programming language. It is the final project for ICP Internship Bootcamp. It is a program that will encourage people to write code everyday with the motivation of planting trees. It basically works like this: <br> 
+I have created a project using Motoko programming language. It is the final project for Internet Computer Internship Bootcamp. It is a program that will encourage people to write code everyday with the motivation of planting trees. It basically works like this: <br> 
 Before starting your day, you determine how many task you want to finish in the day. The task will be writing code for some programming questions. For example, you decided on 5 programming questions. My app will bring 5 random questions (questions may be pulled from a platform like LeetCode). These questions will be added to "ToDo" list. Every time you finish your task, you will get a certain amount of points (for ex: 50). These point will accumulate in your account. When your points reach to a certain point (for ex: 200), these points will be converted to <b>tree points</b> (for each 200 points --> 20 tree points). When tree points will reach 100, a tree will be planted in a certain location. There might be a section where you have the chance to choose where the tree will be planted (might be implemented later). <br>
 ```
 - If you manage to finish all the tasks in the day, you will get extra points (for ex: 25).
