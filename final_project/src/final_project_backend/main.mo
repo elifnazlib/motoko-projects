@@ -68,8 +68,8 @@ actor Assistant {
     var output : Text = "\nAccumulated points from the tasks:" # Nat.toText(accumulatedPoints);
     output #= "\nCurrent tree points: " # Nat.toText(pointsForTree);
     if(pointsForTree >= 100) {
-        output #= "\nCongrats! You reached 1000 points and earned a chance to plant one tree!";
-        pointsForTree -= pointsForTree%1000;
+        output #= "\nCongrats! You reached 100 tree points and earned a chance to plant one tree!";
+        pointsForTree -= pointsForTree%100;
         output #= "\n🌳 One tree will be planted in Atatürk Orman Çiftliği.\nYou can check your tree in the given location: AOÇ 🌳";
     };
     output #= "\nWith your hard work, the number of trees planted so far: " # Nat.toText(treeCount);
